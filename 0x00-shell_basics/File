@@ -1,0 +1,4 @@
+#!/bin/bash
+
+#comment for result print
+echo "Good programming tips"
