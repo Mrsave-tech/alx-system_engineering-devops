@@ -1,1 +1,1 @@
-Script executing all command
+systen devops
