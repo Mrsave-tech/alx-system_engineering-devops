@@ -1,1 +1,1 @@
-thunder no go fire you oh
+Script executing all command
